@@ -1,0 +1,1136 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「投筆從『ㄖㄨㄥˊ』」中的「ㄖㄨㄥˊ」，國字為？",
+    "options": ["戎", "戌", "戒"],
+    "answer": 0,
+    "explanation": "ㄖㄨㄥˊ的國字為戎。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「班彪」中的「彪」，注音為？",
+    "options": ["ㄏㄨˇ", "ㄨㄣˊ", "ㄅㄧㄠ"],
+    "answer": 2,
+    "explanation": "彪的注音為ㄅㄧㄠ。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「精湛」中的「湛」，注音為？",
+    "options": ["ㄕㄣ", "ㄓㄢˋ", "ㄕㄜˊ"],
+    "answer": 1,
+    "explanation": "湛的注音為ㄓㄢˋ。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「魁梧」中的「梧」，注音為？",
+    "options": ["ㄨˊ", "ㄨˇ", "ㄨˋ"],
+    "answer": 2,
+    "explanation": "梧的注音為ㄨˋ。88年、101年審定音為ㄨˊ,但109年審定音為ㄨˋ。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「覬覦」中的「覦」，注音為？",
+    "options": ["ㄩˊ", "ㄩˇ", "ㄩˋ"],
+    "answer": 0,
+    "explanation": "覦的注音為ㄩˊ。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「龜」茲國中的「龜」，注音為？",
+    "options": ["ㄍㄨㄟ", "ㄑㄧㄡ", "ㄐㄩㄣ"],
+    "answer": 1,
+    "explanation": "龜的注音為ㄑㄧㄡ。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「龜茲」國中的「茲」，注音為？",
+    "options": ["ㄗ", "ㄗㄠˇ", "ㄘˊ"],
+    "answer": 3,
+    "explanation": "茲的注音為ㄘˊ。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「攏絡」中的「攏」，注音為？",
+    "options": ["ㄌㄨㄥˇ", "ㄌㄨㄥˊ", "ㄋㄨㄥˋ"],
+    "answer": 0,
+    "explanation": "攏的注音為ㄌㄨㄥˇ。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「大月氏」中的「氏」，注音為？",
+    "options": ["ㄗ", "ㄓ", "ㄕˋ"],
+    "answer": 1,
+    "explanation": "氏的注音為ㄓ。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "reading_comprehension",
+    "question": "「投筆從戎」指的是誰？",
+    "options": ["班彪", "班固", "班超"],
+    "answer": 2,
+    "explanation": "投筆從戎指的是班超。"
+  },
+  {
+    "id": 11,
+    "unit": 1,
+    "category": "reading_comprehension",
+    "question": "班超是什麼時代的人？",
+    "options": ["西漢", "東漢", "唐朝"],
+    "answer": 1,
+    "explanation": "班超是東漢時代的人。"
+  },
+  {
+    "id": 12,
+    "unit": 1,
+    "category": "reading_comprehension",
+    "question": "班超原來的工作是什麼？",
+    "options": ["每天騎馬射箭的獵人", "抄寫戶籍名冊的書生", "時常計算財貨的商人"],
+    "answer": 1,
+    "explanation": "班超原來的工作是抄寫戶籍名冊的書生。"
+  },
+  {
+    "id": 13,
+    "unit": 1,
+    "category": "reading_comprehension",
+    "question": "時常南下侵犯漢朝的北方民族是誰？",
+    "options": ["匈奴", "鄯善", "于闐"],
+    "answer": 0,
+    "explanation": "時常南下侵犯漢朝的北方民族是匈奴。"
+  },
+  {
+    "id": 14,
+    "unit": 1,
+    "category": "reading_comprehension",
+    "question": "班超在西域平定了幾個國家？",
+    "options": ["三十一個", "六十八個", "五十五個"],
+    "answer": 2,
+    "explanation": "班超在西域平定了五十五個國家。"
+  },
+   {
+    "id": 15,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「薰陶」的意思是什麼？",
+    "options": ["影響和熏染", "教導和培養", "照耀和照明"],
+    "answer": 0,
+    "explanation": "「薰陶」指的是影響和熏染，使人受到良好的影響。"
+  },
+  {
+    "id": 16,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「魁梧」的意思是什麼？",
+    "options": ["高大壯碩", "矮小瘦弱", "普通平常"],
+    "answer": 0,
+    "explanation": "「魁梧」形容人的身材高大壯碩。"
+  },
+  {
+    "id": 17,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「精湛」的意思是什麼？",
+    "options": ["技藝高超", "技藝普通", "技藝低劣"],
+    "answer": 0,
+    "explanation": "「精湛」形容技藝高超，十分出色。"
+  },
+  {
+    "id": 18,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「攏絡」的意思是什麼？",
+    "options": ["拉攏關係", "分散注意", "擴大影響"],
+    "answer": 0,
+    "explanation": "「攏絡」指的是使用手段拉攏別人，建立良好關係。"
+  },
+  {
+    "id": 19,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「瓦解」的意思是什麼？",
+    "options": ["分裂解體", "整合成一", "穩固不變"],
+    "answer": 0,
+    "explanation": "「瓦解」指的是全部解體或潰散。"
+  },
+  {
+    "id": 20,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「騷擾」的意思是什麼？",
+    "options": ["擾亂使人不安", "安靜無聲", "保持沉默"],
+    "answer": 0,
+    "explanation": "「騷擾」指的是擾亂使人感到不安或困擾。"
+  },
+  {
+    "id": 21,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「心切」的意思是什麼？",
+    "options": ["心中急迫", "心情平靜", "心情愉快"],
+    "answer": 0,
+    "explanation": "「心切」形容心中急迫，渴望某事發生。"
+  },
+  {
+    "id": 22,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「報國」的意思是什麼？",
+    "options": ["為國家效力", "為自己謀利", "逃避責任"],
+    "answer": 0,
+    "explanation": "「報國」指的是為國家盡忠效力。"
+  },
+  {
+    "id": 23,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「斷絕」的意思是什麼？",
+    "options": ["完全切斷", "暫時中止", "保持聯繫"],
+    "answer": 0,
+    "explanation": "「斷絕」指的是完全切斷某種關係或聯繫。"
+  },
+  {
+    "id": 24,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「功績」的意思是什麼？",
+    "options": ["成就和貢獻", "失敗和錯誤", "普通的表現"],
+    "answer": 0,
+    "explanation": "「功績」指的是成就和貢獻，通常用於表彰某人的優秀表現。"
+  },
+  {
+    "id": 25,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「覬覦」的意思是什麼？",
+    "options": ["希望得到不屬於自己的東西", "隨意放棄", "安於現狀"],
+    "answer": 0,
+    "explanation": "「覬覦」指的是非分地希望得到不屬於自己的東西。"
+  },
+  {
+    "id": 26,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「知己知彼」的意思是什麼？",
+    "options": ["正確了解自己，並能評估對方的實力", "只了解自己的優點", "對敵人完全不了解"],
+    "answer": 0,
+    "explanation": "「知己知彼」指的是正確了解自己，並能評估對方的實力。"
+  },
+  {
+    "id": 27,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「百戰百勝」的意思是什麼？",
+    "options": ["每次作戰必定獲勝", "偶爾失敗", "不斷嘗試"],
+    "answer": 0,
+    "explanation": "「百戰百勝」指的是每次作戰必定獲勝，形容在競賽中無往不利。"
+  },
+  {
+    "id": 28,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「迅雷不及掩耳」的意思是什麼？",
+    "options": ["行動迅速，令人防備不及", "雷聲非常大聲", "行動緩慢"],
+    "answer": 0,
+    "explanation": "「迅雷不及掩耳」比喻行動迅速，令人防備不及。"
+  },
+  {
+    "id": 29,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「不敢越雷池一步」的意思是什麼？",
+    "options": ["指做事不敢超越一定的範圍", "隨意行動", "勇敢無畏"],
+    "answer": 0,
+    "explanation": "「不敢越雷池一步」指做事不敢超越一定的範圍，或指對手不敢隨便來侵犯。"
+  },
+  {
+    "id": 30,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「壯丁」的意思是什麼？",
+    "options": ["年齡已達可服勞役的壯年男子", "年輕的男孩", "老年人"],
+    "answer": 0,
+    "explanation": "「壯丁」指的是年齡已達可服勞役的壯年男子。"
+  },
+  {
+    "id": 31,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「討生活」的意思是什麼？",
+    "options": ["過日子", "隨意生活", "不求上進"],
+    "answer": 0,
+    "explanation": "「討生活」指的是為了生存而努力工作或謀生。"
+  },
+  {
+    "id": 32,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "《漢書》的作者是誰？",
+    "options": ["班固", "司馬遷", "陳壽"],
+    "answer": 0,
+    "explanation": "「漢書」的作者是班固，他是東漢時期的歷史學家。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "陶「侃」的注音為？",
+    "options": ["ㄒㄩㄥ", "ㄎㄢˇ", "ㄘㄨˋ"],
+    "answer": 1,
+    "explanation": "陶侃的「侃」的注音為ㄎㄢˇ。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "祖「逖」的注音為？",
+    "options": ["ㄉㄧˊ", "ㄉㄧˇ", "ㄊㄧˋ"],
+    "answer": 2,
+    "explanation": "祖逖的「逖」的注音為ㄊㄧˋ。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "小「吏」的注音為？",
+    "options": ["ㄕˇ", "ㄌㄧˋ", "ㄓㄤˋ"],
+    "answer": 1,
+    "explanation": "小吏的「吏」的注音為ㄌㄧˋ。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "稻「穗」的注音為？",
+    "options": ["ㄙㄨㄟˋ", "ㄏㄨㄟˋ", "ㄍㄥˇ"],
+    "answer": 0,
+    "explanation": "稻穗的「穗」的注音為ㄙㄨㄟˋ。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「行」誼的注音為？",
+    "options": ["ㄒㄧㄥˋ", "ㄒㄧㄥˊ", "ㄏㄤˊ"],
+    "answer": 0,
+    "explanation": "行誼的「行」的注音為ㄒㄧㄥˋ。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "行「誼」的注音為？",
+    "options": ["ㄧˊ", "ㄧˇ", "ㄧˋ"],
+    "answer": 2,
+    "explanation": "行誼的「誼」的注音為ㄧˋ。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "大「禹」的注音為？",
+    "options": ["ㄩˊ", "ㄩˇ", "ㄩˋ"],
+    "answer": 1,
+    "explanation": "大禹的「禹」的注音為ㄩˇ。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "reading_comprehension",
+    "question": "〈陶公勸勤〉一文中,陶侃早上把百塊的磚運出屋外，晚上再搬進屋內，其目的是在？",
+    "options": ["無事找事做", "養成勞動習慣", "鍛鍊身體"],
+    "answer": 2,
+    "explanation": "陶侃的目的是鍛鍊身體,將來才有能力來從事復興中原這件大事。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "reading_comprehension",
+    "question": "由〈陶公勸勤〉一文中可知，陶侃志向在？",
+    "options": ["恢復國土", "保護國土", "到京師做官"],
+    "answer": 0,
+    "explanation": "陶侃的志向在恢復國土。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "reading_comprehension",
+    "question": "〈陶公勸勤〉一文中,陶侃勸人要效法大禹的？",
+    "options": ["治水方法", "愛惜光陰", "人飢己飢"],
+    "answer": 1,
+    "explanation": "陶侃勸人要效法大禹的愛惜光陰。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "reading_comprehension",
+    "question": "〈陶公勸勤〉一文中,那個人為什麼要摘一把稻穗？",
+    "options": ["收割拿回家", "在路上檢到的", "無聊，隨手拔取"],
+    "answer": 2,
+    "explanation": "那個人因無聊，就隨手拔取稻穗玩耍。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "reading_comprehension",
+    "question": "〈陶公勸勤〉一文中,陶侃為什麼要鞭打那個人，他的用意？",
+    "options": ["除害群之馬", "行嚴厲法治", "要人敬事惜物"],
+    "answer": 2,
+    "explanation": "陶侃的用意是要人敬事惜物。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「聞雞起舞」的意思是什麼？",
+    "options": ["及時奮起行動", "隨意行動", "不理會周圍"],
+    "answer": 0,
+    "explanation": "「聞雞起舞」指的是半夜聞雞啼，立即起床操練武藝，後用以比喻及時奮起行動。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「賢慧」的意思是形容女子？",
+    "options": ["善良且深明大義", "聰明伶俐", "勇敢無畏"],
+    "answer": 0,
+    "explanation": "「賢慧」形容女子善良且深明大義。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「清正廉潔」的意思是什麼？",
+    "options": ["清廉不貪汙", "隨意花費", "生活奢華"],
+    "answer": 0,
+    "explanation": "「清正廉潔」指的是清廉不貪汙，形容一個人品行端正。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「侍奉」的意思是什麼？",
+    "options": ["服侍、伺候", "隨意使用", "逃避責任"],
+    "answer": 0,
+    "explanation": "「侍奉」指的是服侍、伺候他人。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「憂慮」的意思是什麼？",
+    "options": ["擔心和煩惱", "高興和快樂", "安靜和放鬆"],
+    "answer": 0,
+    "explanation": "「憂慮」指的是擔心和煩惱的情緒。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「致力」的意思是什麼？",
+    "options": ["竭盡心力", "隨意應付", "放棄努力"],
+    "answer": 0,
+    "explanation": "「致力」指的是竭盡心力去做某事。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「愛戴」的意思是什麼？",
+    "options": ["敬愛、擁戴", "冷漠對待", "隨意批評"],
+    "answer": 0,
+    "explanation": "「愛戴」指的是敬愛和擁戴某人，通常用於形容對領導或有德之人的尊敬。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「自暴自棄」的意思是什麼？",
+    "options": ["自甘墮落，不求上進", "努力奮鬥，追求進步", "安於現狀，不思進取"],
+    "answer": 0,
+    "explanation": "「自暴自棄」指的是自甘墮落，不求上進的狀態。"
+  },
+  {
+    "id": 21,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「巡視」的意思是什麼？",
+    "options": ["巡行視察", "隨意遊蕩", "不在乎"],
+    "answer": 0,
+    "explanation": "「巡視」指的是巡行視察某地的行為。"
+  },
+  {
+    "id": 22,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「稻穗」的意思是什麼？",
+    "options": ["叢聚成串的稻穀花實", "成熟的稻子", "稻田的名稱"],
+    "answer": 0,
+    "explanation": "「稻穗」指的是叢聚成串的稻穀花實。"
+  },
+   {
+    "id": 23,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「撫養」的意思是什麼？",
+    "options": ["保護教養", "隨意放任", "完全忽視"],
+    "answer": 0,
+    "explanation": "「撫養」指的是保護和教養某人，通常用於父母對孩子的關懷。"
+  },
+  {
+    "id": 24,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「小吏」的意思是什麼？",
+    "options": ["衙門的差役", "重要官員", "普通市民"],
+    "answer": 0,
+    "explanation": "「小吏」指的是衙門的差役，通常負責一些日常事務。"
+  },
+ {
+    "id": 25,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「行誼」的意思是什麼？",
+    "options": ["品行道義", "隨意行動", "不負責任"],
+    "answer": 0,
+    "explanation": "「行誼」指的是品行和道義，通常用於形容個人的道德品質。"
+  },
+  {
+    "id": 26,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「沒沒無聞」的意思是什麼？",
+    "options": ["沒有名氣", "非常有名", "受到廣泛關注"],
+    "answer": 0,
+    "explanation": "「沒沒無聞」形容人或事物沒有名氣，鮮少受到關注。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "避「諱」的注音為？",
+    "options": ["ㄨㄟˇ", "ㄏㄨㄟˋ", "ㄨㄟˋ"],
+    "answer": 1,
+    "explanation": "避諱的「諱」的注音為ㄏㄨㄟˋ。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「諷」刺的注音為？",
+    "options": ["ㄈㄥ", "ㄈㄥˊ", "ㄈㄥˋ"],
+    "answer": 2,
+    "explanation": "諷刺的「諷」的注音為ㄈㄥˋ。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "憂「患」的注音為？",
+    "options": ["ㄈㄢˋ", "ㄔㄨㄢˋ", "ㄏㄨㄢˋ"],
+    "answer": 2,
+    "explanation": "憂患的「患」的注音為ㄏㄨㄢˋ。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "reading_comprehension",
+    "question": "柳宗元是什麼朝代的人？",
+    "options": ["唐朝", "宋朝", "秦朝"],
+    "answer": 0,
+    "explanation": "柳宗元是唐朝的人。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "reading_comprehension",
+    "question": "〈永某氏之鼠〉這則故事發生的地點是在什麼地方？",
+    "options": ["柳州", "永州", "揚州"],
+    "answer": 1,
+    "explanation": "這則故事發生在永州。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "reading_comprehension",
+    "question": "〈永某氏之鼠〉故事中所說的「子神」是指什麼？",
+    "options": ["貓", "老鼠", "狗"],
+    "answer": 1,
+    "explanation": "故事中所說的「子神」是指老鼠。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "reading_comprehension",
+    "question": "〈永某氏之鼠〉故事中,房子原來的主人為什麼喜歡老鼠？",
+    "options": ["因為他迷信", "老鼠會帶來財富", "老鼠多，家裡比較熱鬧"],
+    "answer": 0,
+    "explanation": "房子原來的主人喜歡老鼠是因為他迷信。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "reading_comprehension",
+    "question": "〈永某氏之鼠〉故事中的老鼠，最後的結局怎樣？",
+    "options": ["搬到別的地方去住", "被新主人撲殺", "繼續作威作福"],
+    "answer": 1,
+    "explanation": "故事中的老鼠最後被新主人撲殺。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「反映」的意思是什麼？",
+    "options": ["由某事物的一定狀態而產生的現象", "完全改變", "隨意表達"],
+    "answer": 0,
+    "explanation": "「反映」指的是由某事物的一定狀態和關係而產生和它相符的現象。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「諷刺」的意思是什麼？",
+    "options": ["直接批評", "隱微的嘲諷", "讚美和鼓勵"],
+    "answer": 1,
+    "explanation": "「諷刺」指的是以隱微的方式嘲諷譏刺他人或事物。"
+  },
+  {
+    "id": 11,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「禁忌」的意思是什麼？",
+    "options": ["被禁止或不被接受的事情", "可以接受的行為", "隨意的選擇"],
+    "answer": 0,
+    "explanation": "「禁忌」指的是在社會或文化中被禁止或不被接受的事情。"
+  },
+  {
+    "id": 12,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「恣意」的意思是什麼？",
+    "options": ["任意行動", "小心謹慎", "有條理地進行"],
+    "answer": 0,
+    "explanation": "「恣意」指的是任意行動，不受約束。"
+  },
+  {
+    "id": 13,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「囂張」的意思是什麼？",
+    "options": ["放肆傲慢", "謙虛低調", "安靜無聲"],
+    "answer": 0,
+    "explanation": "「囂張」形容人放肆傲慢，不把他人放在眼裡。"
+  },
+  {
+    "id": 14,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「憂患」的意思是什麼？",
+    "options": ["擔心未來的困難", "快樂無憂", "安然度日"],
+    "answer": 0,
+    "explanation": "「憂患」指的是處於安定中仍不忘思慮急難處境的危機感。"
+  },
+  {
+    "id": 15,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「收斂」的意思是什麼？",
+    "options": ["行為檢點", "隨意行動", "放縱自己"],
+    "answer": 0,
+    "explanation": "「收斂」指的是行為較為檢點嚴肅，而不再放縱。"
+  },
+  {
+    "id": 16,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「避諱」的意思是什麼？",
+    "options": ["舊時為了表示尊敬而不說君主或尊長的名號", "隨意提及", "無所謂"],
+    "answer": 0,
+    "explanation": "「避諱」指的是舊時為了表示尊敬，在言語或書寫時，不說君主或尊長的名號。"
+  },
+  {
+    "id": 17,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「不可思議」的意思是什麼？",
+    "options": ["難以理解", "容易想像", "普通常見"],
+    "answer": 0,
+    "explanation": "「不可思議」形容無法想像，難以理解的事情。"
+  },
+   {
+    "id": 18,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「不可思議」的意思是什麼？",
+    "options": ["無法想像，難以理解", "容易理解", "普通常見"],
+    "answer": 0,
+    "explanation": "「不可思議」形容無法想像，難以理解的事情。"
+  },
+  {
+    "id": 19,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「憂患意識」的意思是什麼？",
+    "options": ["思慮急難處境的危機感", "無憂無慮", "隨意行動"],
+    "answer": 0,
+    "explanation": "「憂患意識」指的是處於安定中仍不忘思慮急難處境的危機感。"
+  },
+  {
+    "id": 20,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「節制」的意思是什麼？",
+    "options": ["限制不使過度", "隨意放任", "不受約束"],
+    "answer": 0,
+    "explanation": "「節制」指的是限制不使過度，通常用於行為或情感。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "reading_comprehension",
+    "question": "〈黔之驢〉這篇故事發生在什麼地方？",
+    "options": ["黔州", "桂林", "湘江"],
+    "answer": 0,
+    "explanation": "這篇故事發生在黔州。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "reading_comprehension",
+    "question": "〈黔之驢〉這篇故事中,黔州這個地方本來沒有什麼動物？",
+    "options": ["老虎", "驢子", "人類"],
+    "answer": 1,
+    "explanation": "黔州這個地方本來沒有驢子。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "reading_comprehension",
+    "question": "〈黔之驢〉這篇故事中,老虎看到驢子時，為什麼嚇了一跳？",
+    "options": ["驢子很凶猛", "老虎膽子小", "老虎從來沒看過驢子，以為牠是怪物"],
+    "answer": 2,
+    "explanation": "老虎看到驢子時，因為從來沒看過驢子，以為牠是怪物而嚇了一跳。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "reading_comprehension",
+    "question": "〈黔之驢〉這篇故事中,老虎看到驢子後，接著做了什麼事？",
+    "options": ["躲在樹林中窺探", "跑到別的地方去，再也不敢過來", "直接跳到驢子面前"],
+    "answer": 0,
+    "explanation": "老虎看到驢子後，躲在樹林中窺探。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "reading_comprehension",
+    "question": "〈黔之驢〉這篇故事的最後，老虎為什麼敢把驢子吃掉？",
+    "options": ["老虎發現驢子並沒有什麼特別的本領", "驢子生病倒下來了", "有另外一隻老虎來幫忙"],
+    "answer": 0,
+    "explanation": "故事的最後，老虎敢把驢子吃掉是因為發現驢子並沒有什麼特別的本領。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「黔」州的注音為？",
+    "options": ["ㄏㄟ", "ㄐㄧㄣ", "ㄑㄧㄢˊ"],
+    "answer": 2,
+    "explanation": "「黔」州的注音為ㄑㄧㄢˊ。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「龐」大的注音為？",
+    "options": ["ㄆㄤˊ", "ㄍㄨㄤˇ", "ㄌㄨㄥˊ"],
+    "answer": 0,
+    "explanation": "「龐」大的注音為ㄆㄤˊ。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「黔」是大陸地區哪一省的簡稱？",
+    "options": ["貴州省的簡稱", "雲南省的簡稱", "廣東省的簡稱"],
+    "answer": 0,
+    "explanation": "「黔州」是大陸地區貴州省的簡稱。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「龐大」的意思是什麼？",
+    "options": ["小巧玲瓏", "巨大而繁瑣", "普通大小"],
+    "answer": 1,
+    "explanation": "「龐大」形容物體或事物的體積非常大。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「窺探」的意思是什麼？",
+    "options": ["偷偷觀察", "大聲詢問", "隨意走動"],
+    "answer": 0,
+    "explanation": "「窺探」指的是偷偷觀察或打探某事物的情況。"
+  },
+  {
+    "id": 11,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「本領」的意思是什麼？",
+    "options": ["才學、技能", "經驗和知識", "無知無識"],
+    "answer": 0,
+    "explanation": "「本領」指的是一個人的才學和技能。"
+  },
+  {
+    "id": 12,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「終究」的意思是什麼？",
+    "options": ["到底、畢竟", "開始時", "暫時"],
+    "answer": 0,
+    "explanation": "「終究」指的是事情的最終結果或發展，表示無論如何最終會發生。"
+  },
+  {
+    "id": 13,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「宏亮」的意思是什麼？",
+    "options": ["聲音洪亮而清晰", "聲音微弱", "聲音模糊"],
+    "answer": 0,
+    "explanation": "「宏亮」形容聲音非常洪亮而清晰。"
+  },
+  {
+    "id": 14,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「過人之處」的意思是什麼？",
+    "options": ["才能超越一般人", "普通的能力", "沒有特別之處"],
+    "answer": 0,
+    "explanation": "「過人之處」指的是才能或能力超越一般人，特別出色。"
+  },
+  {
+    "id": 15,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「冒犯」的意思是什麼？",
+    "options": ["衝撞、得罪", "尊敬、敬重", "親近、友好"],
+    "answer": 0,
+    "explanation": "「冒犯」指的是衝撞或得罪他人，造成不快。"
+  },
+  {
+    "id": 1,
+    "unit": 5,
+    "category": "reading_comprehension",
+    "question": "唐太宗曾多方研究隋朝滅亡的原因,是為了記取前朝的哪種教訓？",
+    "options": ["滅亡", "興盛", "開國"],
+    "answer": 0,
+    "explanation": "唐太宗是記取前朝的滅亡的教訓。"
+  },
+  {
+    "id": 2,
+    "unit": 5,
+    "category": "reading_comprehension",
+    "question": "水能載舟的「水」是指？",
+    "options": ["皇帝", "官員", "老百姓"],
+    "answer": 2,
+    "explanation": "水能載舟的「水」是指老百姓。"
+  },
+  {
+    "id": 3,
+    "unit": 5,
+    "category": "reading_comprehension",
+    "question": "水能覆舟的「舟」是？",
+    "options": ["名詞", "動詞", "形容詞"],
+    "answer": 0,
+    "explanation": "水能覆舟的「舟」是名詞。"
+  },
+  {
+    "id": 4,
+    "unit": 5,
+    "category": "reading_comprehension",
+    "question": "水能覆舟的「覆」是？",
+    "options": ["名詞", "動詞", "形容詞"],
+    "answer": 1,
+    "explanation": "水能覆舟的「覆」是動詞。"
+  },
+  {
+    "id": 5,
+    "unit": 5,
+    "category": "reading_comprehension",
+    "question": "〈水能載舟，亦能覆舟〉文中的「前朝」是指？",
+    "options": ["唐朝", "明朝", "隋朝"],
+    "answer": 2,
+    "explanation": "文中的「前朝」是指隋朝。"
+  },
+  {
+    "id": 6,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "水能「載」舟的注音為？",
+    "options": ["ㄉㄞˋ", "ㄗㄞˋ", "ㄓㄞˋ"],
+    "answer": 1,
+    "explanation": "水能「載」舟的注音為ㄗㄞˋ。"
+  },
+  {
+    "id": 7,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「隋」朝的注音為？",
+    "options": ["ㄉㄨㄛˋ", "ㄙㄨㄟˊ", "ㄊㄤˊ"],
+    "answer": 1,
+    "explanation": "「隋」朝的注音為ㄙㄨㄟˊ。"
+  },
+  {
+    "id": 8,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「長治久安」的意思是什麼？",
+    "options": ["國家長期安定，永久太平", "國家經常動亂", "短期內的和平"],
+    "answer": 0,
+    "explanation": "「長治久安」指的是國家政局長期安定，永久太平的狀態。"
+  },
+  {
+    "id": 9,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「切實」的意思是什麼？",
+    "options": ["切確實在", "虛假不實", "模糊不清"],
+    "answer": 0,
+    "explanation": "「切實」指的是切確實在，真實可靠。"
+  },
+  {
+    "id": 10,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「準則」的意思是什麼？",
+    "options": ["法式、標準", "隨意的規定", "不明確的要求"],
+    "answer": 0,
+    "explanation": "「準則」指的是法式或標準，用於指導行為或決策。"
+  },
+  {
+    "id": 11,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「知人善任」的意思是什麼？",
+    "options": ["能識別、拔擢人才", "隨意任用", "不識人心"],
+    "answer": 0,
+    "explanation": "「知人善任」指的是能識別、拔擢人才，並能依據其專長而加以任用使其發揮所長。"
+  },
+  {
+    "id": 12,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一再」的意思是什麼？",
+    "options": ["一次又一次的", "偶爾", "從不"],
+    "answer": 0,
+    "explanation": "「一再」指的是一次又一次地反覆發生。"
+  },
+  {
+    "id": 13,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「告誡」的意思是什麼？",
+    "options": ["申告勸誡", "隨意提醒", "不予理會"],
+    "answer": 0,
+    "explanation": "「告誡」指的是申告和勸誡他人，提醒注意。"
+  },
+  {
+    "id": 14,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「水能載舟，亦能覆舟」的意思是什麼？",
+    "options": ["事物使用得當則有利，不當則有害", "水的力量無窮", "舟的形狀影響水的流動"],
+    "answer": 0,
+    "explanation": "這句話比喻事物使用得當則有利，不當則有害。"
+  },
+  {
+    "id": 15,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「順勢」的意思是什麼？",
+    "options": ["順應情勢", "逆流而上", "隨意行動"],
+    "answer": 0,
+    "explanation": "「順勢」指的是順應當前的情勢或環境。"
+  },
+  {
+    "id": 1,
+    "unit": 6,
+    "category": "reading_comprehension",
+    "question": "「曲突徙薪」的意思與下列哪一句相同？",
+    "options": ["亡羊補牢", "明辨是非", "防患未然"],
+    "answer": 2,
+    "explanation": "「曲突徙薪」的意思與「防患未然」相同。"
+  },
+  {
+    "id": 2,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「曲突徙薪」的「突」是指？",
+    "options": ["灶門", "煙囪", "鍋蓋"],
+    "answer": 1,
+    "explanation": "「曲突徙薪」的「突」是指煙囪。"
+  },
+  {
+    "id": 3,
+    "unit": 6,
+    "category": "reading_comprehension",
+    "question": "「曲突徙薪」中的主人最後？",
+    "options": ["不理會所有客人", "只請救火有功者", "有宴請最先提醒他的客人"],
+    "answer": 2,
+    "explanation": "「曲突徙薪」中的主人最後有宴請最先提醒他的客人。"
+  },
+  {
+    "id": 4,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「曲」突徙薪的注音為？",
+    "options": ["ㄑㄩ", "ㄑㄩˇ", "ㄑㄩˋ"],
+    "answer": 0,
+    "explanation": "「曲」突徙薪的注音為ㄑㄩ。"
+  },
+  {
+    "id": 5,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "曲突「徙」薪的注音為？",
+    "options": ["ㄒㄧˇ", "ㄊㄨˊ", "ㄗㄡˇ"],
+    "answer": 0,
+    "explanation": "曲突「徙」薪的注音為ㄒㄧˇ。"
+  },
+  {
+    "id": 6,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「柴草」的意思是什麼？",
+    "options": ["用來生火的木材和草", "一種植物", "無用的雜物"],
+    "answer": 0,
+    "explanation": "「柴草」指的是用來生火的木材和草，通常用於爐灶中。"
+  },
+  {
+    "id": 7,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「爐灶」的意思是什麼？",
+    "options": ["用來煮飯的設備", "一種家具", "廚房的裝飾"],
+    "answer": 0,
+    "explanation": "「爐灶」指的是用來煮飯的設備，通常由火爐和灶台組成。"
+  },
+  {
+    "id": 8,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「煙囪」的意思是什麼？",
+    "options": ["排放煙霧的管道", "裝飾性的建築", "一種設備"],
+    "answer": 0,
+    "explanation": "「煙囪」指的是排放煙霧的管道，通常與爐灶或暖氣設備相連。"
+   },
+   {
+    "id": 9,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「當作耳邊風」的意思是什麼？",
+    "options": ["對所聽到的事毫不關心", "非常重視", "認真對待"],
+    "answer": 0,
+    "explanation": "「當作耳邊風」比喻對所聽到的事毫不關心，隨意忽略。"
+  },
+  {
+    "id": 10,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「上座」的意思是什麼？",
+    "options": ["上首的座位", "普通的座位", "不重要的地方"],
+    "answer": 0,
+    "explanation": "「上座」指的是上首的座位，通常是最重要或最尊貴的地方。"
+  },
+   {
+    "id": 11,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「破費」的意思是什麼？",
+    "options": ["花費金錢", "節省開支", "隨意消費"],
+    "answer": 0,
+    "explanation": "「破費」指的是花費金錢，通常帶有不情願的意味。"
+  },
+  {
+    "id": 12,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「焦頭爛額」的意思是什麼？",
+    "options": ["形容非常忙碌或困擾", "心情平靜", "悠閒自在"],
+    "answer": 0,
+    "explanation": "「焦頭爛額」形容非常忙碌或困擾，常用來形容壓力大。"
+  },
+  {
+    "id": 1,
+    "unit": 7,
+    "category": "reading_comprehension",
+    "question": "艾森豪為何獲得熱烈的掌聲？",
+    "options": ["演講內容豐富", "長得很帥，受觀眾喜愛", "掌握了觀眾的心理"],
+    "answer": 2,
+    "explanation": "艾森豪獲得熱烈的掌聲是因為掌握了觀眾的心理。"
+  },
+  {
+    "id": 2,
+    "unit": 7,
+    "category": "reading_comprehension",
+    "question": "這故事最能顯示艾森豪的？",
+    "options": ["大方", "投機取巧", "幽默"],
+    "answer": 2,
+    "explanation": "這故事最能顯示艾森豪的幽默。"
+  },
+  {
+    "id": 3,
+    "unit": 7,
+    "category": "reading_comprehension",
+    "question": "標點符號中的句點表示什麼？",
+    "options": ["結束", "停頓", "刪除"],
+    "answer": 0,
+    "explanation": "標點符號中的句點表示結束。"
+  },
+  {
+    "id": 4,
+    "unit": 7,
+    "category": "reading_comprehension",
+    "question": "由本文可知哪種演講詞最受歡迎？",
+    "options": ["深奧難懂", "簡單明瞭", "誇張不實"],
+    "answer": 1,
+    "explanation": "由本文可知，簡單明瞭的演講詞最受歡迎。"
+  },
+  {
+    "id": 5,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「與」會人士的注音為？",
+    "options": ["ㄩˇ", "ㄩˋ", "ㄒㄧㄥ"],
+    "answer": 0,
+    "explanation": "「與」會人士的注音為ㄩˇ。"
+  },
+  {
+    "id": 6,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「與會」的意思是什麼？",
+    "options": ["參加聚會或會議", "隨意缺席", "不參加"],
+    "answer": 0,
+    "explanation": "「與會」指的是參加聚會或會議。"
+  }
+]
