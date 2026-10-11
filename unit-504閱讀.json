@@ -59,7 +59,7 @@
     "category": "vocabulary",
     "question": "「龜茲」國中的「茲」，注音為？",
     "options": ["ㄗ", "ㄗㄠˇ", "ㄘˊ"],
-    "answer": 3,
+    "answer": 2,
     "explanation": "茲的注音為ㄘˊ。"
   },
   {
@@ -598,7 +598,7 @@
     "unit": 3,
     "category": "vocabulary",
     "question": "「反映」的意思是什麼？",
-    "options": ["由某事物的一定狀態而產生的現象", "完全改變", "隨意表達"],
+    "options": ["由某事物的一定狀態而產生和它相符的現象", "完全改變", "隨意表達"],
     "answer": 0,
     "explanation": "「反映」指的是由某事物的一定狀態和關係而產生和它相符的現象。"
   },
@@ -669,12 +669,12 @@
     "id": 17,
     "unit": 3,
     "category": "vocabulary",
-    "question": "「不可思議」的意思是什麼？",
-    "options": ["難以理解", "容易想像", "普通常見"],
+    "question": "「節制」的意思是什麼？",
+    "options": ["限制不使過度", "隨意放任", "不受約束"],
     "answer": 0,
-    "explanation": "「不可思議」形容無法想像，難以理解的事情。"
+    "explanation": "「節制」指的是限制不使過度，通常用於行為或情感。"
   },
-   {
+  {
     "id": 18,
     "unit": 3,
     "category": "vocabulary",
@@ -692,15 +692,7 @@
     "answer": 0,
     "explanation": "「憂患意識」指的是處於安定中仍不忘思慮急難處境的危機感。"
   },
-  {
-    "id": 20,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「節制」的意思是什麼？",
-    "options": ["限制不使過度", "隨意放任", "不受約束"],
-    "answer": 0,
-    "explanation": "「節制」指的是限制不使過度，通常用於行為或情感。"
-  },
+  
   {
     "id": 1,
     "unit": 4,
@@ -750,7 +742,7 @@
     "id": 6,
     "unit": 4,
     "category": "vocabulary",
-    "question": "「黔」州的注音為？",
+    "question": "「黔」的注音為？",
     "options": ["ㄏㄟ", "ㄐㄧㄣ", "ㄑㄧㄢˊ"],
     "answer": 2,
     "explanation": "「黔」州的注音為ㄑㄧㄢˊ。"
@@ -759,7 +751,7 @@
     "id": 7,
     "unit": 4,
     "category": "vocabulary",
-    "question": "「龐」大的注音為？",
+    "question": "「龐」的注音為？",
     "options": ["ㄆㄤˊ", "ㄍㄨㄤˇ", "ㄌㄨㄥˊ"],
     "answer": 0,
     "explanation": "「龐」大的注音為ㄆㄤˊ。"
@@ -840,7 +832,7 @@
     "id": 1,
     "unit": 5,
     "category": "reading_comprehension",
-    "question": "唐太宗曾多方研究隋朝滅亡的原因,是為了記取前朝的哪種教訓？",
+    "question": "唐太宗曾多方研究隋朝,是為了記取前朝的哪種教訓？",
     "options": ["滅亡", "興盛", "開國"],
     "answer": 0,
     "explanation": "唐太宗是記取前朝的滅亡的教訓。"
@@ -1083,7 +1075,7 @@
     "id": 1,
     "unit": 7,
     "category": "reading_comprehension",
-    "question": "艾森豪為何獲得熱烈的掌聲？",
+    "question": "〈句點〉一文中,艾森豪為何獲得熱烈的掌聲？",
     "options": ["演講內容豐富", "長得很帥，受觀眾喜愛", "掌握了觀眾的心理"],
     "answer": 2,
     "explanation": "艾森豪獲得熱烈的掌聲是因為掌握了觀眾的心理。"
@@ -1092,7 +1084,7 @@
     "id": 2,
     "unit": 7,
     "category": "reading_comprehension",
-    "question": "這故事最能顯示艾森豪的？",
+    "question": "〈句點〉一文,最能顯示艾森豪的？",
     "options": ["大方", "投機取巧", "幽默"],
     "answer": 2,
     "explanation": "這故事最能顯示艾森豪的幽默。"
@@ -1101,7 +1093,7 @@
     "id": 3,
     "unit": 7,
     "category": "reading_comprehension",
-    "question": "標點符號中的句點表示什麼？",
+    "question": "標點符號中的句點(又稱「句號」)表示什麼？",
     "options": ["結束", "停頓", "刪除"],
     "answer": 0,
     "explanation": "標點符號中的句點表示結束。"
@@ -1110,7 +1102,7 @@
     "id": 4,
     "unit": 7,
     "category": "reading_comprehension",
-    "question": "由本文可知哪種演講詞最受歡迎？",
+    "question": "由〈句點〉一文,可知哪種演講詞最受歡迎？",
     "options": ["深奧難懂", "簡單明瞭", "誇張不實"],
     "answer": 1,
     "explanation": "由本文可知，簡單明瞭的演講詞最受歡迎。"
@@ -1121,8 +1113,8 @@
     "category": "vocabulary",
     "question": "「與」會人士的注音為？",
     "options": ["ㄩˇ", "ㄩˋ", "ㄒㄧㄥ"],
-    "answer": 0,
-    "explanation": "「與」會人士的注音為ㄩˇ。"
+    "answer": 1,
+    "explanation": "「與」會人士的注音為ㄩˋ。"
   },
   {
     "id": 6,
